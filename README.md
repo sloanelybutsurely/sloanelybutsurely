@@ -10,7 +10,7 @@ I'm also a Haskell, LISP, and just all around functional programming enthusiast.
 
 Find me elsewhere on the web:
 - My personal website, [sloane.sh][sloane-sh] 🌐
-- @sloane_of_arc on [twitter][twitter]  and [instagram][instagram] 
+- `@sloane_of_arc` on [twitter][twitter] 🐦 and [instagram][instagram] 📸
 - Via email @ <sloane.perrault@gmail.com> 📨
 
 
