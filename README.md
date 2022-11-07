@@ -10,12 +10,11 @@ I'm also a Haskell, LISP, and just all around functional programming enthusiast.
 
 Find me elsewhere on the web:
 - My personal website, [sloane.sh][sloane-sh] 🌐
-- `@sloane_of_arc` on [twitter][twitter] 🐦 and [instagram][instagram] 📸
+- `@sloane_of_arc` on [instagram][instagram] 📸
 - Via email @ <sloane.perrault@gmail.com> 📨
 
 
 [postlight]: https://postlight.com
 [mta]: https://postlight.com/work/mta
 [sloane-sh]: https://sloane.sh
-[twitter]: https://twitter.com/sloane_of_arc
 [instagram]: https://instagram.com/sloane_of_arc
